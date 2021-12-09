@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: 933dac0626509704c97984ab972f86b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2509685809516011634
+    second: Unbenannt-3_Photoshop_0
+  - first:
+      213: -5475251297292634216
+    second: Unbenannt-3_Photoshop_1
+  - first:
+      213: 7895995083758349471
+    second: Unbenannt-3_Photoshop_2
+  - first:
+      213: -330630218867178578
+    second: Unbenannt-3_Photoshop_3
+  - first:
+      213: 5744140464193473903
+    second: Unbenannt-3_Photoshop_4
+  - first:
+      213: 7017290124164201306
+    second: Unbenannt-3_Photoshop_5
+  - first:
+      213: 4832805689730095612
+    second: Unbenannt-3_Photoshop_6
+  - first:
+      213: -8409656418939576354
+    second: Unbenannt-3_Photoshop_7
+  - first:
+      213: -4350858841145493400
+    second: Unbenannt-3_Photoshop_8
+  - first:
+      213: -4752361847823066955
+    second: Unbenannt-3_Photoshop_9
+  - first:
+      213: 2092495542768762118
+    second: Unbenannt-3_Photoshop_10
+  - first:
+      213: 5615589681346855532
+    second: Unbenannt-3_Photoshop_11
+  - first:
+      213: 3239331957435077214
+    second: Unbenannt-3_Photoshop_12
+  - first:
+      213: -2550017737629685290
+    second: Unbenannt-3_Photoshop_13
+  - first:
+      213: -3750929746497270914
+    second: Unbenannt-3_Photoshop_14
+  - first:
+      213: 8023790944149866135
+    second: Unbenannt-3_Photoshop_15
+  - first:
+      213: 3623479916522558051
+    second: Unbenannt-3_Photoshop_16
+  - first:
+      213: -5709951446907868229
+    second: Unbenannt-3_Photoshop_17
+  - first:
+      213: 2745086818111453809
+    second: Unbenannt-3_Photoshop_18
+  - first:
+      213: 9208421744019248732
+    second: Unbenannt-3_Photoshop_19
+  - first:
+      213: 2465735428959678280
+    second: Unbenannt-3_Photoshop_20
+  - first:
+      213: 6402019500128931385
+    second: Unbenannt-3_Photoshop_21
+  - first:
+      213: 8717960324730863327
+    second: Unbenannt-3_Photoshop_22
+  - first:
+      213: -9111466625327773538
+    second: Unbenannt-3_Photoshop_23
+  - first:
+      213: -7178635056011017009
+    second: Unbenannt-3_Photoshop_24
+  - first:
+      213: 7778843857033783296
+    second: Unbenannt-3_Photoshop_25
+  - first:
+      213: 7241218905693270109
+    second: Unbenannt-3_Photoshop_26
+  - first:
+      213: 788085683339901171
+    second: Unbenannt-3_Photoshop_27
+  - first:
+      213: 658309898098726536
+    second: Unbenannt-3_Photoshop_28
+  - first:
+      213: 7423399063610227551
+    second: Unbenannt-3_Photoshop_29
+  - first:
+      213: 8521836368537014231
+    second: Unbenannt-3_Photoshop_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1169.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2706a0662f134d220800000000000000
+      internalID: 2509685809516011634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1169.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89730e844fff304b0800000000000000
+      internalID: -5475251297292634216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_2
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1169.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ca5a3a1b5349d60800000000000000
+      internalID: 7895995083758349471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_3
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1169.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea38964519d596bf0800000000000000
+      internalID: -330630218867178578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_4
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1169.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d0334815947bf40800000000000000
+      internalID: 5744140464193473903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_5
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1169.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bf9a0503c626160800000000000000
+      internalID: 7017290124164201306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_6
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1169.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf959d46b23911340800000000000000
+      internalID: 4832805689730095612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_7
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 1169.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfd5021b06ea4b80800000000000000
+      internalID: -8409656418939576354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868b7a19fe4ae93c0800000000000000
+      internalID: -4350858841145493400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 780.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8136814183c0eb0800000000000000
+      internalID: -4752361847823066955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_10
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 780.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60df1d01c990a0d10800000000000000
+      internalID: 2092495542768762118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_11
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 780.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62470100159eed40800000000000000
+      internalID: 5615589681346855532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_12
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 780.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e521d78a04b64fc20800000000000000
+      internalID: 3239331957435077214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_13
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 786
+        width: 291
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d923a1d0648c9cd0800000000000000
+      internalID: -2550017737629685290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_14
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 783
+        width: 291
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b8592d44502fbc0800000000000000
+      internalID: -3750929746497270914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_15
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 780
+        width: 291
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7968c021a5b3a5f60800000000000000
+      internalID: 8023790944149866135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362d61b39cf294230800000000000000
+      internalID: 3623479916522558051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_17
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 391.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb2452696d22c0b0800000000000000
+      internalID: -5709951446907868229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 391.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17af32fbae1881620800000000000000
+      internalID: 2745086818111453809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_19
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 391.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c561042b9c2eacf70800000000000000
+      internalID: 9208421744019248732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_20
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 391.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fac310f4d083220800000000000000
+      internalID: 2465735428959678280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_21
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 391.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e0f46e0da88d850800000000000000
+      internalID: 6402019500128931385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_22
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 391.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde3881c9ba6cf870800000000000000
+      internalID: 8717960324730863327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_23
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 391.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98c28ef0619d8180800000000000000
+      internalID: -9111466625327773538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc40c4a537d506c90800000000000000
+      internalID: -7178635056011017009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_25
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0086abd164104fb60800000000000000
+      internalID: 7778843857033783296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_26
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 2.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50b0b6aa3afd7460800000000000000
+      internalID: 7241218905693270109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_27
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 2.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8bb08e0c7dfea00800000000000000
+      internalID: 788085683339901171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_28
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 2.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8865c4c4d59c22900800000000000000
+      internalID: 658309898098726536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_29
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 2.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b74741e16350760800000000000000
+      internalID: 7423399063610227551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unbenannt-3_Photoshop_30
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 2.25
+        width: 291
+        height: 389.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df47acc605a34670800000000000000
+      internalID: 8521836368537014231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

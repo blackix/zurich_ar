@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: All swiss image targets
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5287103642407553535
+  m_GuidHigh: 5497643607429215151
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5425437175758499092
+      m_GuidHigh: 17067240572002310549
+    m_SerializedTextureGuid:
+      m_GuidLow: 18033575807984224741
+      m_GuidHigh: 14254073549378969336
+    m_Size: {x: 0.1, y: 0.07069556}
+    m_SpecifySize: 1
+    m_Name: eyemarker
+    m_Texture: {fileID: 2800000, guid: c0fa49e521a6fa44f85e06315fa4d0c5, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5203493914476268496
+      m_GuidHigh: 5240717320495051701
+    m_SerializedTextureGuid:
+      m_GuidLow: 16777263645846592825
+      m_GuidHigh: 15911794357429225050
+    m_Size: {x: 0.1, y: 0.13333334}
+    m_SpecifySize: 1
+    m_Name: incubomarker
+    m_Texture: {fileID: 2800000, guid: 69c2dd39d065e8d45a46a2eda90cd2dc, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4616299495609377462
+      m_GuidHigh: 2007211529340624297
+    m_SerializedTextureGuid:
+      m_GuidLow: 17430252431649090722
+      m_GuidHigh: 8103047426700291067
+    m_Size: {x: 0.1, y: 0.07069556}
+    m_SpecifySize: 1
+    m_Name: newoldmarker
+    m_Texture: {fileID: 2800000, guid: b5d52ca2b23cf1e4fb2b9deab3ce7370, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4994199442750993726
+      m_GuidHigh: 1988856306855402676
+    m_SerializedTextureGuid:
+      m_GuidLow: 17997541670622748067
+      m_GuidHigh: 794514335771849032
+    m_Size: {x: 0.1, y: 0.09283322}
+    m_SpecifySize: 1
+    m_Name: sanlucamarker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4770286969720411163
+      m_GuidHigh: 9434680350620855462
+    m_SerializedTextureGuid:
+      m_GuidLow: 1037047272185276613
+      m_GuidHigh: 37285510073930970
+    m_Size: {x: 0.1, y: 0.10620567}
+    m_SpecifySize: 1
+    m_Name: serpentonemarker
+    m_Texture: {fileID: 2800000, guid: e1e428c554ff0e64dad4394ff9768400, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5463627105762674117
+      m_GuidHigh: 253048895503522722
+    m_SerializedTextureGuid:
+      m_GuidLow: 2838581984699828317
+      m_GuidHigh: 2860904709697979256
+    m_Size: {x: 0.1, y: 0.089099325}
+    m_SpecifySize: 1
+    m_Name: 1_Time
+    m_Texture: {fileID: 2800000, guid: 8fdb485dab4627647843cafdacf9b327, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5069221321750434457
+      m_GuidHigh: 17042032014715232181
+    m_SerializedTextureGuid:
+      m_GuidLow: 3306913883426092626
+      m_GuidHigh: 4982708692082590155
+    m_Size: {x: 0.1, y: 0.1267631}
+    m_SpecifySize: 1
+    m_Name: 2_Eye
+    m_Texture: {fileID: 2800000, guid: fc6b765284a72de4cb81d5ea27232645, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5278321199668572762
+      m_GuidHigh: 736135657772754830
+    m_SerializedTextureGuid:
+      m_GuidLow: 12138467043913254437
+      m_GuidHigh: 464297489587332201
+    m_Size: {x: 0.1, y: 0.124509804}
+    m_SpecifySize: 1
+    m_Name: 3_Incubo
+    m_Texture: {fileID: 2800000, guid: ce3c46257f76a8746964f5581b847106, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4958892176419091731
+      m_GuidHigh: 17873769047031516042
+    m_SerializedTextureGuid:
+      m_GuidLow: 9783185600782024883
+      m_GuidHigh: 5541989981058052523
+    m_Size: {x: 0.1, y: 0.09506624}
+    m_SpecifySize: 1
+    m_Name: 4_Snake
+    m_Texture: {fileID: 2800000, guid: 6a5440b3db7887c4ab31bd69861ae94c, type: 3}

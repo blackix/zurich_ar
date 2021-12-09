@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: serpentone ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5497476745720324836
+  m_GuidHigh: 3372791428756040358
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4799476065642187582
+      m_GuidHigh: 349801933463235213
+    m_SerializedTextureGuid:
+      m_GuidLow: 16777263645846592825
+      m_GuidHigh: 15911794357429225050
+    m_Size: {x: 0.1, y: 0.13333334}
+    m_SpecifySize: 1
+    m_Name: serpentone1
+    m_Texture: {fileID: 2800000, guid: 69c2dd39d065e8d45a46a2eda90cd2dc, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4620482238083487205
+      m_GuidHigh: 7940015042386057091
+    m_SerializedTextureGuid:
+      m_GuidLow: 1037047272185276613
+      m_GuidHigh: 37285510073930970
+    m_Size: {x: 0.1, y: 0.10620567}
+    m_SpecifySize: 1
+    m_Name: serpentone_bag
+    m_Texture: {fileID: 2800000, guid: e1e428c554ff0e64dad4394ff9768400, type: 3}

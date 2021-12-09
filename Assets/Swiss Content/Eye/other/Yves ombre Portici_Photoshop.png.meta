@@ -1,0 +1,912 @@
+fileFormatVersion: 2
+guid: 93d07c27d00ae814696f9704794adc26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7062255370790832309
+    second: Yves ombre Portici_Photoshop_0
+  - first:
+      213: 6344870405287926280
+    second: Yves ombre Portici_Photoshop_1
+  - first:
+      213: 173310091132604259
+    second: Yves ombre Portici_Photoshop_2
+  - first:
+      213: -8430970859258444726
+    second: Yves ombre Portici_Photoshop_3
+  - first:
+      213: -8755496289373054202
+    second: Yves ombre Portici_Photoshop_4
+  - first:
+      213: 356016924659204222
+    second: Yves ombre Portici_Photoshop_5
+  - first:
+      213: -5526411204729870747
+    second: Yves ombre Portici_Photoshop_6
+  - first:
+      213: 4135782812818156823
+    second: Yves ombre Portici_Photoshop_7
+  - first:
+      213: 3100217423046144846
+    second: Yves ombre Portici_Photoshop_8
+  - first:
+      213: 2366425776694534713
+    second: Yves ombre Portici_Photoshop_9
+  - first:
+      213: 4297442049496094859
+    second: Yves ombre Portici_Photoshop_10
+  - first:
+      213: -3560961689260026408
+    second: Yves ombre Portici_Photoshop_11
+  - first:
+      213: 6004016565362771853
+    second: Yves ombre Portici_Photoshop_12
+  - first:
+      213: -791116885326114954
+    second: Yves ombre Portici_Photoshop_13
+  - first:
+      213: 7019047761950544979
+    second: Yves ombre Portici_Photoshop_14
+  - first:
+      213: 8906709967190333368
+    second: Yves ombre Portici_Photoshop_15
+  - first:
+      213: 5113067201520748851
+    second: Yves ombre Portici_Photoshop_16
+  - first:
+      213: 6763736482280823538
+    second: Yves ombre Portici_Photoshop_17
+  - first:
+      213: 3699539815432616236
+    second: Yves ombre Portici_Photoshop_18
+  - first:
+      213: 5814528667700702788
+    second: Yves ombre Portici_Photoshop_19
+  - first:
+      213: 395434357711478487
+    second: Yves ombre Portici_Photoshop_20
+  - first:
+      213: -8011573475762855997
+    second: Yves ombre Portici_Photoshop_21
+  - first:
+      213: -7513866035592056209
+    second: Yves ombre Portici_Photoshop_22
+  - first:
+      213: -2660334979872396190
+    second: Yves ombre Portici_Photoshop_23
+  - first:
+      213: 1463448445982883346
+    second: Yves ombre Portici_Photoshop_24
+  - first:
+      213: 1253010470386061875
+    second: Yves ombre Portici_Photoshop_25
+  - first:
+      213: -1018533092099513225
+    second: Yves ombre Portici_Photoshop_26
+  - first:
+      213: -153484003977522132
+    second: Yves ombre Portici_Photoshop_27
+  - first:
+      213: 7052137097816097284
+    second: Yves ombre Portici_Photoshop_28
+  - first:
+      213: 736812350345184855
+    second: Yves ombre Portici_Photoshop_29
+  - first:
+      213: -4434899969826064266
+    second: Yves ombre Portici_Photoshop_30
+  - first:
+      213: 3315508221008066287
+    second: Yves ombre Portici_Photoshop_31
+  - first:
+      213: 9072385947138119736
+    second: Yves ombre Portici_Photoshop_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1598.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b80511a7db220260800000000000000
+      internalID: 7062255370790832309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1598.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a531d54028d0850800000000000000
+      internalID: 6344870405287926280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_2
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1598.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f03f11c98b76200800000000000000
+      internalID: 173310091132604259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_3
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1598.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a440b363cac2ffa80800000000000000
+      internalID: -8430970859258444726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_4
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1598.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b1baf638a3e7680800000000000000
+      internalID: -8755496289373054202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_5
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1598.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70c658b183d0f400800000000000000
+      internalID: 356016924659204222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_6
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1598.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566665b1a4e3e43b0800000000000000
+      internalID: -5526411204729870747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_7
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1598.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d21325e80456930800000000000000
+      internalID: 4135782812818156823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1199.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e437423125f260b20800000000000000
+      internalID: 3100217423046144846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_9
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1199.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932a43fb4bb37d020800000000000000
+      internalID: 2366425776694534713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_10
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1199.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b889a0376c493ab30800000000000000
+      internalID: 4297442049496094859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_11
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1199.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d591ecd53ce49ec0800000000000000
+      internalID: -3560961689260026408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_12
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1199.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87420c614d825350800000000000000
+      internalID: 6004016565362771853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_13
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1199.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fc25262636505f0800000000000000
+      internalID: -791116885326114954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_14
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1199.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354109040caa86160800000000000000
+      internalID: 7019047761950544979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_15
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1199.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b79fcf768dfa9b70800000000000000
+      internalID: 8906709967190333368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3394853978345f640800000000000000
+      internalID: 5113067201520748851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_17
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 800.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fad2bcae7e9ddd50800000000000000
+      internalID: 6763736482280823538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_18
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 800.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2976437cd7675330800000000000000
+      internalID: 3699539815432616236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_19
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 800.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e20ae340b51b050800000000000000
+      internalID: 5814528667700702788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_20
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 800.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de9067047ddc7500800000000000000
+      internalID: 395434357711478487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_21
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 800.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf9635fe5c21d090800000000000000
+      internalID: -8011573475762855997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_22
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 800.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62b9aa96a269b790800000000000000
+      internalID: -7513866035592056209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_23
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 800.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ce82d4e67941bd0800000000000000
+      internalID: -2660334979872396190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e38e1ab963f4410800000000000000
+      internalID: 1463448445982883346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_25
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 401.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332d4335266936110800000000000000
+      internalID: 1253010470386061875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_26
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 401.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774ad659c817dd1f0800000000000000
+      internalID: -1018533092099513225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_27
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 401.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2417309c17beddf0800000000000000
+      internalID: -153484003977522132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_28
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 401.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402ceae93593ed160800000000000000
+      internalID: 7052137097816097284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_29
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 401.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7560278cdeea93a00800000000000000
+      internalID: 736812350345184855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_30
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 401.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678702c79f11472c0800000000000000
+      internalID: -4434899969826064266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_31
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 401.4
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6b213292d030e20800000000000000
+      internalID: 3315508221008066287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yves ombre Portici_Photoshop_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.399994
+        width: 283.5
+        height: 399.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838d96c83f697ed70800000000000000
+      internalID: 9072385947138119736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

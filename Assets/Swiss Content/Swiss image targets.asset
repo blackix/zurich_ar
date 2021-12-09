@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Swiss image targets
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5128528316860265621
+  m_GuidHigh: 1441871790967248024
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4900290263380450191
+      m_GuidHigh: 6834815031873964963
+    m_SerializedTextureGuid:
+      m_GuidLow: 6459458213552708231
+      m_GuidHigh: 5347997916742875304
+    m_Size: {x: 0.1, y: 0.10341727}
+    m_SpecifySize: 1
+    m_Name: swiss1
+    m_Texture: {fileID: 2800000, guid: 8449da879b0559a4a8f8fc36c5e7374a, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4931850889713845403
+      m_GuidHigh: 7520077870857449096
+    m_SerializedTextureGuid:
+      m_GuidLow: 14155969096890423970
+      m_GuidHigh: 5087031277498743643
+    m_Size: {x: 0.1, y: 0.10008909}
+    m_SpecifySize: 1
+    m_Name: swiss2
+    m_Texture: {fileID: 2800000, guid: 5f8f9aa21ae4c4745b3b9da0fec39846, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4835260652057205433
+      m_GuidHigh: 8426402196153366695
+    m_SerializedTextureGuid:
+      m_GuidLow: 1037047272185276613
+      m_GuidHigh: 37285510073930970
+    m_Size: {x: 0.1, y: 0.10620567}
+    m_SpecifySize: 1
+    m_Name: swiss3
+    m_Texture: {fileID: 2800000, guid: e1e428c554ff0e64dad4394ff9768400, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4876516496601618032
+      m_GuidHigh: 15478190538332240060
+    m_SerializedTextureGuid:
+      m_GuidLow: 18231920857497846852
+      m_GuidHigh: 5996002936846232777
+    m_Size: {x: 0.1, y: 0.10687057}
+    m_SpecifySize: 1
+    m_Name: swiss4
+    m_Texture: {fileID: 2800000, guid: 4c31c444cb6cfd04c92ceb22e7143653, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5241119773724005583
+      m_GuidHigh: 14429683969753218196
+    m_SerializedTextureGuid:
+      m_GuidLow: 3306815157582469827
+      m_GuidHigh: 15793047136804921113
+    m_Size: {x: 0.1, y: 0.045442984}
+    m_SpecifySize: 1
+    m_Name: 21shirtwhite
+    m_Texture: {fileID: 2800000, guid: 95949ac32add2de419df411eb22c2cdb, type: 3}

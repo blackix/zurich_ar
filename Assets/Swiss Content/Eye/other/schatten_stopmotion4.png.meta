@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: 4cdc1f9f66b4bc447aa6fa581d333b85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3863841149810491223
+    second: schatten_stopmotion4_0
+  - first:
+      213: 6195432551923946242
+    second: schatten_stopmotion4_1
+  - first:
+      213: -5980080038572390767
+    second: schatten_stopmotion4_2
+  - first:
+      213: -3577394713947957222
+    second: schatten_stopmotion4_3
+  - first:
+      213: 5072376936004927460
+    second: schatten_stopmotion4_4
+  - first:
+      213: -6870435883420590837
+    second: schatten_stopmotion4_5
+  - first:
+      213: 1278679986358768915
+    second: schatten_stopmotion4_6
+  - first:
+      213: -215868702227657928
+    second: schatten_stopmotion4_7
+  - first:
+      213: -2976686226592272570
+    second: schatten_stopmotion4_8
+  - first:
+      213: -4483870399708357771
+    second: schatten_stopmotion4_9
+  - first:
+      213: -114799692221667627
+    second: schatten_stopmotion4_10
+  - first:
+      213: -4442153519290558840
+    second: schatten_stopmotion4_11
+  - first:
+      213: -7870124171183287586
+    second: schatten_stopmotion4_12
+  - first:
+      213: 42544593548242007
+    second: schatten_stopmotion4_13
+  - first:
+      213: -758604760153787668
+    second: schatten_stopmotion4_14
+  - first:
+      213: 2543961920159171633
+    second: schatten_stopmotion4_15
+  - first:
+      213: -5006270877599230200
+    second: schatten_stopmotion4_16
+  - first:
+      213: 2924051841539551603
+    second: schatten_stopmotion4_17
+  - first:
+      213: 131282204880304170
+    second: schatten_stopmotion4_18
+  - first:
+      213: -6293928769388790253
+    second: schatten_stopmotion4_19
+  - first:
+      213: -6954739819458038572
+    second: schatten_stopmotion4_20
+  - first:
+      213: 2259246600543886342
+    second: schatten_stopmotion4_21
+  - first:
+      213: -2921254705289611727
+    second: schatten_stopmotion4_22
+  - first:
+      213: 442686694633336393
+    second: schatten_stopmotion4_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: schatten_stopmotion4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 803.3334
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fbdf2ed0f1f9530800000000000000
+      internalID: 3863841149810491223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 803.3334
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2039157c4199af550800000000000000
+      internalID: 6195432551923946242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_2
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 803.3334
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1960d7483ec720da0800000000000000
+      internalID: -5980080038572390767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_3
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 803.3334
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1895c5267a8a5ec0800000000000000
+      internalID: -3577394713947957222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_4
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 803.3334
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef357dd2f3b46640800000000000000
+      internalID: 5072376936004927460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_5
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 803.3334
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d5e9417fe47a0a0800000000000000
+      internalID: -6870435883420590837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_6
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 803.3334
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315d0504ca8ceb110800000000000000
+      internalID: 1278679986358768915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_7
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 803.3334
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b889d1f84110df0800000000000000
+      internalID: -215868702227657928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402.33334
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f6b28e5afa0b6d0800000000000000
+      internalID: -2976686226592272570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 402.33334
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b9e76c0a716c1c0800000000000000
+      internalID: -4483870399708357771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_10
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 402.33334
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6adc4c946286ef0800000000000000
+      internalID: -114799692221667627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_11
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 402.33334
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8865fe4e8ec4a52c0800000000000000
+      internalID: -4442153519290558840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_12
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 402.33334
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2976693c3b7c290800000000000000
+      internalID: -7870124171183287586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_13
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 402.33334
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c6e891516279000800000000000000
+      internalID: 42544593548242007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_14
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 402.33334
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2fc1a6df4e875f0800000000000000
+      internalID: -758604760153787668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_15
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 402.33334
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134453d43e7fd4320800000000000000
+      internalID: 2543961920159171633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333435
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80790534927268ab0800000000000000
+      internalID: -5006270877599230200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_17
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1.3333435
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371bac758a1549820800000000000000
+      internalID: 2924051841539551603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_18
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1.3333435
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a287833487862d100800000000000000
+      internalID: 131282204880304170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_19
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1.3333435
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e38f2812977a8a0800000000000000
+      internalID: -6293928769388790253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_20
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1.3333435
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d470f36bfccb7f90800000000000000
+      internalID: -6954739819458038572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_21
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1.3333435
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c5d6d20d47a5f10800000000000000
+      internalID: 2259246600543886342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_22
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1.3333435
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13636c0b25e9577d0800000000000000
+      internalID: -2921254705289611727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten_stopmotion4_23
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1.3333435
+        width: 284.125
+        height: 401.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e696c043db42600800000000000000
+      internalID: 442686694633336393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
