@@ -107,3 +107,13 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: 4_Snake
     m_Texture: {fileID: 2800000, guid: 6a5440b3db7887c4ab31bd69861ae94c, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4875698327447930344
+      m_GuidHigh: 9812111931462309258
+    m_SerializedTextureGuid:
+      m_GuidLow: 10693398578124757887
+      m_GuidHigh: 17805943202465084491
+    m_Size: {x: 0.1, y: 0.07069556}
+    m_SpecifySize: 1
+    m_Name: 5_Serpentone
+    m_Texture: {fileID: 2800000, guid: cacb1b7f955994664b74b6b1006b1bf7, type: 3}

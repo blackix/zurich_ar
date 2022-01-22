@@ -96,6 +96,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -688,6 +689,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      schatten_stopmotion4_21: 2259246600543886342
+      schatten_stopmotion4_17: 2924051841539551603
+      schatten_stopmotion4_7: -215868702227657928
+      schatten_stopmotion4_20: -6954739819458038572
+      schatten_stopmotion4_15: 2543961920159171633
+      schatten_stopmotion4_1: 6195432551923946242
+      schatten_stopmotion4_5: -6870435883420590837
+      schatten_stopmotion4_0: 3863841149810491223
+      schatten_stopmotion4_9: -4483870399708357771
+      schatten_stopmotion4_3: -3577394713947957222
+      schatten_stopmotion4_4: 5072376936004927460
+      schatten_stopmotion4_23: 442686694633336393
+      schatten_stopmotion4_11: -4442153519290558840
+      schatten_stopmotion4_12: -7870124171183287586
+      schatten_stopmotion4_8: -2976686226592272570
+      schatten_stopmotion4_18: 131282204880304170
+      schatten_stopmotion4_19: -6293928769388790253
+      schatten_stopmotion4_16: -5006270877599230200
+      schatten_stopmotion4_2: -5980080038572390767
+      schatten_stopmotion4_13: 42544593548242007
+      schatten_stopmotion4_14: -758604760153787668
+      schatten_stopmotion4_6: 1278679986358768915
+      schatten_stopmotion4_22: -2921254705289611727
+      schatten_stopmotion4_10: -114799692221667627
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

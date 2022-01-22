@@ -117,6 +117,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -856,6 +857,38 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Unbenannt-3_Photoshop_6: 4832805689730095612
+      Unbenannt-3_Photoshop_20: 2465735428959678280
+      Unbenannt-3_Photoshop_10: 2092495542768762118
+      Unbenannt-3_Photoshop_17: -5709951446907868229
+      Unbenannt-3_Photoshop_18: 2745086818111453809
+      Unbenannt-3_Photoshop_3: -330630218867178578
+      Unbenannt-3_Photoshop_4: 5744140464193473903
+      Unbenannt-3_Photoshop_1: -5475251297292634216
+      Unbenannt-3_Photoshop_23: -9111466625327773538
+      Unbenannt-3_Photoshop_28: 658309898098726536
+      Unbenannt-3_Photoshop_25: 7778843857033783296
+      Unbenannt-3_Photoshop_14: -3750929746497270914
+      Unbenannt-3_Photoshop_24: -7178635056011017009
+      Unbenannt-3_Photoshop_29: 7423399063610227551
+      Unbenannt-3_Photoshop_21: 6402019500128931385
+      Unbenannt-3_Photoshop_22: 8717960324730863327
+      Unbenannt-3_Photoshop_27: 788085683339901171
+      Unbenannt-3_Photoshop_8: -4350858841145493400
+      Unbenannt-3_Photoshop_2: 7895995083758349471
+      Unbenannt-3_Photoshop_26: 7241218905693270109
+      Unbenannt-3_Photoshop_19: 9208421744019248732
+      Unbenannt-3_Photoshop_15: 8023790944149866135
+      Unbenannt-3_Photoshop_30: 8521836368537014231
+      Unbenannt-3_Photoshop_5: 7017290124164201306
+      Unbenannt-3_Photoshop_16: 3623479916522558051
+      Unbenannt-3_Photoshop_0: 2509685809516011634
+      Unbenannt-3_Photoshop_9: -4752361847823066955
+      Unbenannt-3_Photoshop_12: 3239331957435077214
+      Unbenannt-3_Photoshop_13: -2550017737629685290
+      Unbenannt-3_Photoshop_7: -8409656418939576354
+      Unbenannt-3_Photoshop_11: 5615589681346855532
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

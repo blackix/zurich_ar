@@ -1,9 +1,64 @@
 fileFormatVersion: 2
 guid: eb960cf2026188748868eddd122d43ff
 SketchUpImporter:
-  serializedVersion: 19301
+  serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2.jpg
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "W\u0105\u017C"
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "W\u0105\u017C - oko"
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Water-pool_
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: snake-skin-texture-texture-snake-fashionable-print-python-snake-snake-skin-texture-texture-snake-fashionable-print-128634048
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 171608
+    second: {fileID: 2800000, guid: 124a5f33d0e0742baada769b877b7353, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 188314
+    second: {fileID: 2800000, guid: 7c4ff083887ae425ab82332543326f97, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 228a5145-306c-4bed-8fb6-afbe3439a911
+    second: {fileID: 2800000, guid: 58ab2176dcdcf40c6b4766fcbb28c54a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Program Files_Google_Google SketchUp_Materials__Water-pool
+    second: {fileID: 2800000, guid: ca0e11c6ce5e743e897d671740455697, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_Kuba_Pictures_snake-skin-texture-texture-snake-fashionable-print-python-snake-snake-skin-texture-texture-snake-fashionable-print-128634048
+    second: {fileID: 2800000, guid: 21e36d4b2cfb440f68da45ee3f850a40, type: 3}
   materials:
     materialImportMode: 1
     materialName: 2
@@ -49,6 +104,7 @@ SketchUpImporter:
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
     skinWeightsMode: 0
     maxBonesPerVertex: 4
@@ -58,6 +114,9 @@ SketchUpImporter:
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
   tangentSpace:
@@ -81,7 +140,7 @@ SketchUpImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 0.0254
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
@@ -91,6 +150,7 @@ SketchUpImporter:
   animationType: 0
   humanoidOversampling: 1
   avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
@@ -100,5 +160,5 @@ SketchUpImporter:
   selectedNodes: 00000000010000000200000003000000040000000500000006000000
   assetHash:
     serializedVersion: 2
-    Hash: beb944b2c998c881ca90045e69708307
+    Hash: 31fe52eaa59c823617c118e5a1fb64b7
   fileUnit: 0

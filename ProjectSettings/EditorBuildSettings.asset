@@ -158,16 +158,18 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Swiss Content/Swiss Menu/All Swiss Apps2.unity
     guid: e982c480c205c514daaa68f8c409264f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Swiss Content/Swiss Menu/All Swiss Apps3.unity
     guid: b48cab6db4d7ecd4690ace41c5bca46a
   - enabled: 1
-    path: Assets/zurich_ar_ios.unity
+    path: Assets/Swiss Content/Swiss Menu/zurich_ar_ios.unity
     guid: 5cccf2f7284884bfbb48d8b0d4c1b761
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f8ce26fe3bc69499b9be4b2378e97a94,
       type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 98c79e8cc22674a89a95a3a90e2b70cb,
+      type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 71582e5f71c194e158d6d4c62d3b4bc5,
       type: 2}
     com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 2d5fb8e61571b4e3897f221189089fd6,
       type: 2}

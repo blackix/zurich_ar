@@ -452,11 +452,11 @@ namespace UnityEngine.XR.ARFoundation.Samples
             {
                 m_ARWorldMap.interactable = true;
             }
-
+/*
             if (sessionDescriptors.Count > 0 && EnableGeoAnchors.IsSupported)
             {
                 m_ARKitGeoAnchors.interactable = true;
-            }
+            } */
 
             if(planeDescriptors.Count > 0 && rayCastDescriptors.Count > 0 && participantDescriptors.Count > 0 && ARKitSessionSubsystem.supportsCollaboration)
             {

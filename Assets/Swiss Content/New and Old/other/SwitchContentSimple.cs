@@ -7,6 +7,7 @@ public class SwitchContentSimple : MonoBehaviour
     public Transform VecchioObject;
     public Transform NuovoObject;
 
+
     public enum ActiveScene
     {
         NUOVO,
@@ -21,7 +22,7 @@ public class SwitchContentSimple : MonoBehaviour
 
     public void SetNewScene()
     {
-        if (activeScene == ActiveScene.NUOVO) return;
+        //if (activeScene == ActiveScene.NUOVO) return;
 
         activeScene = ActiveScene.NUOVO;
 
@@ -30,7 +31,7 @@ public class SwitchContentSimple : MonoBehaviour
     }
     public void SetOldScene()
     {
-        if (activeScene == ActiveScene.VECCHIO) return;
+        //if (activeScene == ActiveScene.VECCHIO) return;
 
         activeScene = ActiveScene.VECCHIO;
 
@@ -41,6 +42,7 @@ public class SwitchContentSimple : MonoBehaviour
     //on click the 3d object requires only box collider
     private void OnMouseDown()
     {
+        Debug.Log ("clicked");
         if (activeScene == ActiveScene.VECCHIO)
         {
             SetNewScene();

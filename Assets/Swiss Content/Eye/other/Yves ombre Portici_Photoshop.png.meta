@@ -123,6 +123,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -904,6 +905,40 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Yves ombre Portici_Photoshop_10: 4297442049496094859
+      Yves ombre Portici_Photoshop_22: -7513866035592056209
+      Yves ombre Portici_Photoshop_28: 7052137097816097284
+      Yves ombre Portici_Photoshop_7: 4135782812818156823
+      Yves ombre Portici_Photoshop_29: 736812350345184855
+      Yves ombre Portici_Photoshop_9: 2366425776694534713
+      Yves ombre Portici_Photoshop_8: 3100217423046144846
+      Yves ombre Portici_Photoshop_12: 6004016565362771853
+      Yves ombre Portici_Photoshop_21: -8011573475762855997
+      Yves ombre Portici_Photoshop_25: 1253010470386061875
+      Yves ombre Portici_Photoshop_13: -791116885326114954
+      Yves ombre Portici_Photoshop_4: -8755496289373054202
+      Yves ombre Portici_Photoshop_19: 5814528667700702788
+      Yves ombre Portici_Photoshop_11: -3560961689260026408
+      Yves ombre Portici_Photoshop_23: -2660334979872396190
+      Yves ombre Portici_Photoshop_26: -1018533092099513225
+      Yves ombre Portici_Photoshop_1: 6344870405287926280
+      Yves ombre Portici_Photoshop_17: 6763736482280823538
+      Yves ombre Portici_Photoshop_31: 3315508221008066287
+      Yves ombre Portici_Photoshop_0: 7062255370790832309
+      Yves ombre Portici_Photoshop_24: 1463448445982883346
+      Yves ombre Portici_Photoshop_20: 395434357711478487
+      Yves ombre Portici_Photoshop_15: 8906709967190333368
+      Yves ombre Portici_Photoshop_18: 3699539815432616236
+      Yves ombre Portici_Photoshop_16: 5113067201520748851
+      Yves ombre Portici_Photoshop_6: -5526411204729870747
+      Yves ombre Portici_Photoshop_2: 173310091132604259
+      Yves ombre Portici_Photoshop_14: 7019047761950544979
+      Yves ombre Portici_Photoshop_32: 9072385947138119736
+      Yves ombre Portici_Photoshop_30: -4434899969826064266
+      Yves ombre Portici_Photoshop_27: -153484003977522132
+      Yves ombre Portici_Photoshop_3: -8430970859258444726
+      Yves ombre Portici_Photoshop_5: 356016924659204222
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
