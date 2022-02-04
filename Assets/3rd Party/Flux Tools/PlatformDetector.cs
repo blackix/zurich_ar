@@ -13,7 +13,7 @@ public class PlatformDetector : MonoBehaviour
         if (Application.platform == RuntimePlatform.IPhonePlayer ||
             Application.platform == RuntimePlatform.OSXPlayer)
         {
-
+#if UNITY_IOS
 
             bool deviceIsIphoneX = UnityEngine.iOS.Device.generation.ToString().Contains("iPhone");
             if (deviceIsIphoneX)
@@ -46,7 +46,7 @@ public class PlatformDetector : MonoBehaviour
                 // Mac logic?
             }
             */
-            
+#endif            
         }
 
         if (Application.platform == RuntimePlatform.Android)
